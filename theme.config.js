@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  github: 'https://github.com/BladeBotList/bladelist.gg-docs',
+  docsRepositoryBase: 'https://github.com/BladeBotList/bladelist.gg-docs/',
   titleSuffix: ' – Bladelist.gg',
   logo: (
     <>
